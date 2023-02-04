@@ -1,0 +1,30 @@
+{
+  "name": "customs",
+  "version": "1.0.0",
+  "description": "Runs a discord bot which manages custom games",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CameronBourque/CustomsBot.git"
+  },
+  "keywords": [
+    "customs",
+    "tens",
+    "valorant"
+  ],
+  "author": "Cameron Bourque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CameronBourque/CustomsBot/issues"
+  },
+  "homepage": "https://github.com/CameronBourque/CustomsBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "firebase": "^9.17.1"
+  }
+}

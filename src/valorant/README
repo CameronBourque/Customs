@@ -1,0 +1,12 @@
+#Valorant
+This is where the Valo API comes in handy
+
+#TODO
+- Sign up for the valorant API
+- Research what is possible using that API
+
+#Plans
+- If possible, keep track of match stats in real time
+- Record match history and player stats specifically for the custom games
+- Keep database records of each player linked to their discord names
+
